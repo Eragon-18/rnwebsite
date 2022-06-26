@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Eragon-18.github.io/rnwebsite/static/js/main.cc40c8e8.js",
-    "index.html": "/Eragon-18.github.io/rnwebsite/index.html",
-    "main.cc40c8e8.js.map": "/Eragon-18.github.io/rnwebsite/static/js/main.cc40c8e8.js.map"
+    "main.js": "/rnwebsite/static/js/main.cc40c8e8.js",
+    "index.html": "/rnwebsite/index.html",
+    "main.cc40c8e8.js.map": "/rnwebsite/static/js/main.cc40c8e8.js.map"
   },
   "entrypoints": [
     "static/js/main.cc40c8e8.js"
