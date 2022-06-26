@@ -1,7 +1,7 @@
 {
   "name": "rn-website",
   "version": "0.1.0",
-  "homepage": "Eragon-18.github.io/rn-website",
+  "homepage": "Eragon-18.github.io/rnwebsite",
   "private": true,
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
